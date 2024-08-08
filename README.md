@@ -1,2 +1,34 @@
-# RealTimeColab_docs
-Next.js application that operates in real time, created for personal use during joint presentations. It also uses frameworks like LiveBlocks, Shadcn, Lexical editor and Tailwind, as well as Sentry for monitoring potential errors that may occur during the app's use.
+<h2 aling="center"> A Collaborative LiveDocs </h2>
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Tech Stack 
+
+Next.js <br/>
+TypeScript <br/>
+Liveblocks <br/>
+Lexical Editor <br/>
+ShadCN <br/>
+Tailwind CSS <br/>
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+
+
+
